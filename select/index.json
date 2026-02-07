@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "遠いゆびきり",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:06:50.739739Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠いゆびきり",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_遠いゆびきり_霜月はるか.txt"
+    }
+  ]
+}
